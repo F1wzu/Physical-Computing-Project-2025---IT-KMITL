@@ -1,5 +1,5 @@
 # Physical-Computing-Project-2025 - IT-KMITL
-** MEMORY GAME **
+**MEMORY GAME**
 
 # Description
   ---
