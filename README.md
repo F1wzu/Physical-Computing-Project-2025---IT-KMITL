@@ -1,6 +1,6 @@
 # Physical-Computing-Project-2025 - IT-KMITL
 # COLOR MEMORY GAME 🟩🟥🟧🟪🟦
-<img width="1376" height="917" alt="color-memorize" src="https://github.com/user-attachments/assets/74f2ebc5-9a8b-4e97-bac7-992c8b185f67" />
+[<img width="1376" height="917" alt="color-memorize" src="https://github.com/user-attachments/assets/74f2ebc5-9a8b-4e97-bac7-992c8b185f67" />](https://github.com/F1wzu/Physical-Computing-Project-2025---IT-KMITL/blob/main/color-memorize.png?raw=true)
 
 ## บทคัดย่อ
    “Color Memory Game” เป็นโครงงานการสร้างเกมด้วยไมโครคอนโทรลเลอร์ (Microcontroller) ซึ่งเป็นส่วนหนึ่งของรายวิชา “การประมวลผลทางกายภาพ (Physical Computing)” โดยมีวัตถุประสงค์เพื่อพัฒนาทักษะและประยุกต์ใช้ความรู้ที่ได้รับจากรายวิชานี้โดยการสร้างผลงานจริง
